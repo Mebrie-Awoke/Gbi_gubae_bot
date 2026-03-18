@@ -13,14 +13,4 @@ Python 3.10+
 
 An API Token from your Bot Father (Telegram).
 ## Installation
-Clone the repository:Bashgit clone https://github.com/yourusername/6-kilo-gbi-bot.git
-cd 6-kilo-gbi-bot
-Install dependencies:Bashpip install -r requirements.txt
-# OR
-npm install
-Environment Variables:Create a .env file in the root directory and add your credentials:Code snippetBOT_TOKEN=your_token_here
-DATABASE_URL=your_db_url
-Run the bot:Bashpython main.py
-# OR
-npm start
-🎮 Usage/CommandsCommandAction/startWelcome message and bot introduction./add_reminderAdd a new commemoration or event date./listView all upcoming events for the month./helpDetailed guide on how to use the bot.🤝 ContributingContributions are what make the GBI community strong!Fork the Project.Create your Feature Branch (git checkout -b feature/AmazingFeature).Commit your Changes (git commit -m 'Add some AmazingFeature').Push to the Branch (git push origin feature/AmazingFeature).Open a Pull Request.
+Clone the repository:Bashgit clone https://github.com/Mebrie-Awoke/Gbi_gubae_bot.git
